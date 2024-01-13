@@ -1,0 +1,11 @@
+.logo{
+    font-family: '';
+}
+
+.nav-link:hover{
+    color: #ff4500
+}
+
+.body{
+    background-image: url("stydy.jpg");
+}
